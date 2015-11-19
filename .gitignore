@@ -1,0 +1,14 @@
+g# Gradle
+.gradle/
+build/
+gradle.properties
+local.properties
+
+# IDEA
+.idea/
+*.iml
+
+# Other
+.DS_Store
+crashlytics-build.properties
+com_crashlytics_export_strings.xml
